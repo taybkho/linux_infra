@@ -1,6 +1,6 @@
 # linux_infra_projects
 
-The below projects are some that i made in the linux fiels 
+The below projects are some that i made in the linux field 
 
 1. Running Containerized Applications with Docker: Set up Docker environments, managed containers,
 and explored container orchestration.
